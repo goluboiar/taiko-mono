@@ -10,8 +10,8 @@ Use `taikoxyz` for the social handle (e.g., Twitter: [@taikoxyz](https://twitter
 
 ## Files
 
-Look inside of this package for some common files you can use. Otherwise, please resort to the [Figma](<https://www.figma.com/file/qVALIk5srW9nvOJwl6NF6F/Taiko-Brand-Guidelines-(External)>).
+Look inside of this package for some common files you can use. Otherwise, please report to the [Figma](<https://www.figma.com/file/qVALIk5srW9nvOJwl6NF6F/Taiko-Brand-Guidelines-(External)>).
 
 ## Colors
 
-Our primary hex color is `#E81899`. For the full color palette and further details, please resort to the [Figma](<https://www.figma.com/file/qVALIk5srW9nvOJwl6NF6F/Taiko-Brand-Guidelines-(External)>).
+Our primary hex color is `#E81899`. For the full color palette and further details, please report to the [Figma](<https://www.figma.com/file/qVALIk5srW9nvOJwl6NF6F/Taiko-Brand-Guidelines-(External)>).
